@@ -59,6 +59,6 @@ for vendedor in vendas:
     
 print("Total Bonus 1:", total_bonus1)
 print("Total Bonus 2:", total_bonus2)
-print("Total Bonus geral:", total_bonus1 + total_bonus2)
+print("Total Bonus geral:", total_bonus1)
 
     
