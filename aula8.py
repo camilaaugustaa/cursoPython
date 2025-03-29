@@ -23,5 +23,10 @@ def calcular_bonus(lista_vendas):
 vendas = [100 ,200, 4890, 1000, 500]
 
 resultado = calcular_bonus(vendas)
+bonus1 = resultado[0] #tupla indice 0 bonus1
+bonus2 = resultado[1] #tupla indice 1 bonus2. Essa forma mostra o valor de cada um dos bônus separadamente
 print(resultado)
+print(bonus1)
+print(bonus2)
+
 
